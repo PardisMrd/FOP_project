@@ -1,6 +1,0 @@
-1. When having more than one C source code in your project only the main one can have int main(int argc, char const *argv[]); otherway leads to error.
-2. When getting input through argc/argv method, anything that comes between two double coutations "" count as one argument and without "" itself.
-3. If you wish to redo the project for any reason, remember what settings you need to undo.
-You've made some changes in tasks.json and lauch.json I don't know wether they're global or not. Check them.
-You made a ln -s of neogit in /bin/neogit you have to replace
-4. While attemting to debug code outcomment #define _DEBUGGING_ and input argc and argv manually

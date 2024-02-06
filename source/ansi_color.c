@@ -1,6 +1,5 @@
 #include "ansi_color.h"
 
-/* # chars in a path name including nul */
 void prepareANSI(void)
 {
     #ifdef _WIN32
